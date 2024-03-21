@@ -1,4 +1,4 @@
-package com.jsp.chapter02;
+package com.jsp.chap02;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

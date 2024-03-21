@@ -1,9 +1,8 @@
-package com.jsp.chapter02;
+package com.jsp.chap02;
 
 import com.jsp.entity.Dancer;
 import com.jsp.repository.DancerRepository;
 
-import javax.lang.model.SourceVersion;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
